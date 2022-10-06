@@ -16,12 +16,12 @@ body {
   min-height: 50px;
   color: white;
   position: fixed;
-  width: 100%;
-  max-width: 728px;
-  top: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
+  max-width: 728px;
+  top: 0;
   z-index: 99;
   padding: 10px;
   box-sizing: border-box;
@@ -32,7 +32,7 @@ body {
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  background-color: rgb(40, 37, 53);
+  background-color: rgb(122 122 122 / 83%);
 }
 
 main {
@@ -69,7 +69,7 @@ form {
 
 form button {
   width: 20%;
-  background-color: rgb(56, 56, 143);
+  background-color: black;
 }
 
 
@@ -85,12 +85,10 @@ input {
 }
 
 button {
-  /* background-color: #282c34; */
   background-color: #981034ab;
   border: none;
   color: white;
   padding: 11px 26px;
-  /* padding: 15px 32px; */
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -175,3 +173,16 @@ img {
 }
 
 
+/* github link */
+.github_link{
+  margin-left: 47%;
+  width: 50px;
+  height: 50px;
+}
+
+/* @media screen {
+  min-height: 177vh;
+  min-width: 78vh;
+  max-width: 839px;
+  app header max-width: 806px;
+} */
