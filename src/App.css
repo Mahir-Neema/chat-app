@@ -53,7 +53,7 @@ main::-webkit-scrollbar-track {
 }
 
 main::-webkit-scrollbar-thumb {
-  background: #6649b8;
+  background: #ebebedf0;
 }
 
 form {

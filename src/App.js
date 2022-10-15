@@ -122,8 +122,8 @@ function ChatMessage(props) {
   return (<>
     <div className={`message ${messageClass}`}>
       
-      <img src={photoURL || 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png'} alt="pp" />
-      {/* <img src={uid ? photoURL : ""} alt="prof-pic" /> */}
+      {/* <img src={photoURL || 'https://cdn.pixabay.com/photo/2016/08/31/11/54/icon-1633249__340.png'} alt="pp" /> */}
+      <img src={uid ? photoURL : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Circle-icons-profile.svg/512px-Circle-icons-profile.svg.png"} alt="" />
       <p>{text}</p>
     </div>
   </>);
