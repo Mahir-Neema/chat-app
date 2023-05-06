@@ -1,7 +1,40 @@
+# 
+
+#  Messaging Web App
+### A messaging app which lets you chat in group
+
+
+## Technologies used-
+- HTML, CSS, Javascript, React JS, Firebase, Firestore Database
+
+## To view the deployed WebApp: [click here](https://mahir-neema.github.io/chat-app/) 
+## Desktop view:
+<img width="946" alt="image" src="https://user-images.githubusercontent.com/89702867/236619846-35e430d6-453a-4c2f-ab68-9b34aef83ab4.png">
+
+## Small screen view:
+<img width="155" alt="image" src="https://user-images.githubusercontent.com/89702867/236619940-3f5905aa-1eb2-468f-b755-389300e2206f.png">
+<img width="157" alt="image" src="https://user-images.githubusercontent.com/89702867/236619912-b5ce3f6e-b64b-46ea-abaf-8a0990bd602a.png">
+
+
+## How to run the application? 
+1. Clone the repository to your local machine.
+```bash
+git clone https://github.com/Mahir-Neema/chat-app
+```
+2. Navigate to the project directory.<br>
+3. Install the project dependencies. <br>
+```bash
+npm install
+```
+4. Start the application.<br>
+```bash
+npm start
+```
+5. Open your browser and go to http://localhost:3000 to view the application.
+
+
+
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
